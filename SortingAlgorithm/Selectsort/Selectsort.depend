@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472546569 source:e:\homework\patterns\sortingalgorithm\selectsort.cpp
+	<iostream>
+
+1472546337 source:e:\homework\patterns\sortingalgorithm\quicksort.cpp
+	<stdlib.h>
+	<iostream>
+
